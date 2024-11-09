@@ -1,0 +1,16 @@
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\bin\Debug\net8.0-windows\A2_Graphs_PieChart.exe
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\bin\Debug\net8.0-windows\A2_Graphs_PieChart.deps.json
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\bin\Debug\net8.0-windows\A2_Graphs_PieChart.runtimeconfig.json
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\bin\Debug\net8.0-windows\A2_Graphs_PieChart.dll
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\bin\Debug\net8.0-windows\A2_Graphs_PieChart.pdb
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\obj\Debug\net8.0-windows\A2_Graphs_PieChart.Form1.resources
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\obj\Debug\net8.0-windows\A2_Graphs_PieChart.csproj.GenerateResource.cache
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\obj\Debug\net8.0-windows\A2_Graphs_PieChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\obj\Debug\net8.0-windows\A2_Graphs_PieChart.AssemblyInfoInputs.cache
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\obj\Debug\net8.0-windows\A2_Graphs_PieChart.AssemblyInfo.cs
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\obj\Debug\net8.0-windows\A2_Graphs_PieChart.csproj.CoreCompileInputs.cache
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\obj\Debug\net8.0-windows\A2_Graphs_PieChart.dll
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\obj\Debug\net8.0-windows\refint\A2_Graphs_PieChart.dll
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\obj\Debug\net8.0-windows\A2_Graphs_PieChart.pdb
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\obj\Debug\net8.0-windows\A2_Graphs_PieChart.genruntimeconfig.cache
+C:\Users\rtaiy\OneDrive\Desktop\Hello\A2_Graphs_PieChart\obj\Debug\net8.0-windows\ref\A2_Graphs_PieChart.dll
